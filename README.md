@@ -1,5 +1,5 @@
 # Simple-Queues-Mikrotik-Bridge
-Limitasi Mikrotik bridge, Simpleque Mikrotik Bridge
+Limitasi Mikrotik bridge, Simple Queues Mikrotik Bridge
 ```
 /interface bridge
 add name=bridge1
