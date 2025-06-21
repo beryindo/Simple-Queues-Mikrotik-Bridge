@@ -5,7 +5,7 @@ Limitasi Mikrotik bridge, Simpleque Mikrotik Bridge
 add name=bridge1
 /queue simple
 add max-limit=500M/500M name=Eth1 target=ether1
-add max-limit=100M/100M name=Eth target=ether2
+add max-limit=100M/100M name=Eth2 target=ether2
 /interface bridge port
 add bridge=bridge1 interface=sfp-sfpplus1
 add bridge=bridge1 hw=no interface=ether1
