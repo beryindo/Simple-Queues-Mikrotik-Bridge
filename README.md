@@ -23,4 +23,5 @@ set time-zone-name=Asia/Jakarta
 add address=103.111.222.6/28 interface=sfp-sfpplus1 network=103.111.222.0
 /ip route
 add distance=1 gateway=103.111.222.1
+
 ````
